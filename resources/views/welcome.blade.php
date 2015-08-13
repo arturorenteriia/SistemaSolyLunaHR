@@ -38,7 +38,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">NUEVO PROYECTO<5 class="s">
+                <div class="title">NUEVO Carlos<5 class="s">
                     
                 </5></div>
             </div>
